@@ -16,7 +16,6 @@ VALUES
 (false, 'Skallywag', '$2a$10$dgo.HRAecEhFl8L0h.lJM.OeM2t8y5Pi3AmiBlfCXUIIS/PUtfwd.');
 
 
-
 DROP TABLE IF EXISTS treasures;
 CREATE TABLE treasures
 (
